@@ -1,8 +1,7 @@
-=====
 ProjectManager
 =====
 
-ProjectManager is a simple Django app to manage project.
+ProjectManager is a simple Django app to manage projects.
 
 Quick start
 -----------
